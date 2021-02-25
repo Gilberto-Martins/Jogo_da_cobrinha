@@ -1,2 +1,3 @@
 # Jogo_da_cobrinha
-Desenvolvidor com intuito educacional
+Densenvolvido com html, Css e Js puro.
+Feito por motivos educacionais.
